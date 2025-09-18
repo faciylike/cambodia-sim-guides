@@ -78,3 +78,10 @@ layout: default
 
 　　最后，网络只是工具，别让它完全占据你的旅程。偶尔放下手机，感受一下金边皇宫的日落和洞里萨湖的风，那才是真正的“深度”体验，对吧？
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cambodia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/cambodia-data-plans)
